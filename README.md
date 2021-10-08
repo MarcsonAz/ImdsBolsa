@@ -6,3 +6,8 @@ Criado dia 06 de outubro para iniciar a implementação da arquitetura sugerida 
 Aqui teremos uma lista de atualizações:
 
 dia 061021 criação e teste no R
+
+dia 071021 testes arrow
+
+dia 081021 testes data.table
+
